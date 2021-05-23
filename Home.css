@@ -1,3 +1,6 @@
+.html{
+  scroll-behaviour: smooth;
+}
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/BREAKING_BAD_series_drugs_crime_drama_thriller_dark_poster_3840x2160.jpg");
 }
